@@ -33,4 +33,5 @@ int main()
 2) b값이 max보다 크면 max에 b값을 넣는다.
 3) c값이 max보다 크면 max에 c값을 넣는다.
 4) d값이 max보다 크면 max에 d값을 넣는다.
+5) max를 출력한다.
 */
